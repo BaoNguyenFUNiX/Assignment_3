@@ -190,11 +190,12 @@ header {
 }
 
 #target {
-  padding: 80px 100px 0 130px;
+  padding: 50px;
 }
 
 #personal-info {
   background-color: #d4d2d2af;
+  padding: 50px;
 }
 
 .info {
